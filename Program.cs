@@ -8,17 +8,17 @@ class Program
 
             int sum = 0;
 
-            for (int i = 0; i <= 3; i++)
+            for (int i = 0; i < 4; i++)
             {
                 sum += i;
-                Console.WriteLine($"i = {i}");
+                Console.WriteLine($"i = {i}\nsum ={sum}");
 
-                if (i == 3)
+                if (sum == 3)
                 {
-                    Console.WriteLine("We have now the magical sum of 3");
+                    Console.WriteLine("We have now the magical sum of 3\n");
                 }
             }
-            Console.WriteLine("Program end.");
+            Console.WriteLine("\nProgram end.");
         }
     }
 
