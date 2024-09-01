@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)//tar bort loopen och klistrar in den i min nya metod 'MyLoop'.
     {
         Console.WriteLine("Program begin");
-        MyLoop(4);
+        MyLoop(3);
         MyLoop(10);
         Console.WriteLine("\nProgram end.");   
     } 

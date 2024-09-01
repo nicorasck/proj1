@@ -12,3 +12,4 @@ c:\Users\nicho\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\refint\pr
 c:\Users\nicho\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.pdb
 c:\Users\nicho\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.genruntimeconfig.cache
 c:\Users\nicho\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\ref\proj1.dll
+C:\Users\nicho\development\projects\OPG\MyRepos\proj1\obj\Debug\net8.0\proj1.sourcelink.json
